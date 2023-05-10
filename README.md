@@ -1,4 +1,4 @@
 # The cheese factory
-## Welcome, friend.
+## Welcome, friend
 
 
